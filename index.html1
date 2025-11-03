@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 优化的TDK -->
+    <title>专业广告推广服务 | 搜索推广 | 信息流推广 | 短视频推广 | SEO优化 | 网站建设</title>
+    <meta name="description" content="专业广告推广服务提供商，提供搜索推广、信息流推广、短视频推广、SEO优化和网站建设一站式解决方案。全行业投放，一手渠道资源，优惠政策可达80%。">
+    <meta name="keywords" content="广告推广,搜索推广,信息流推广,短视频推广,SEO优化,网站建设,竞价推广,代运营,微信咨询">
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <!-- 样式表 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>专注搜索推广+信息流推广+短视频推广+SEO优化+网站建设</h1>
+                <p class="subtitle">一手渠道资源丰富，全行业投放</p>
+                <div class="qr-section">
+                    <div class="qr-code">
+						<img src="wechat-qr.png" alt="微信咨询二维码">
+                    </div>
+                    <div class="qr-text">微信扫一扫，立刻咨询+</div>
+                </div>
+            </div>
+        </header>
+        
+        <div class="services-grid">
+            <div class="service-card">
+                <h2 class="service-title">
+                    <span class="service-icon"><i class="fas fa-search"></i></span>
+                    搜索广告推广
+                </h2>
+                <ul class="service-list">
+                    <li>四大搜索，PC+移动推广获取精准客服</li>
+                    <li>竞价推广开户</li>
+                    <li>搜索引擎优化</li>
+                    <li>关键词精准投放</li>
+                    <li>账户代运营服务</li>
+                </ul>
+            </div>
+            
+            <div class="service-card">
+                <h2 class="service-title">
+                    <span class="service-icon"><i class="fas fa-stream"></i></span>
+                    信息流广告推广
+                </h2>
+                <ul class="service-list">
+                    <li>海量流量，全面覆盖各大信息流广告平台</li>
+                    <li>头条信息流广告</li>
+                    <li>腾讯信息流投放</li>
+                    <li>百度信息流推广</li>
+                    <li>多平台精准投放</li>
+                </ul>
+            </div>
+            
+            <div class="service-card">
+                <h2 class="service-title">
+                    <span class="service-icon"><i class="fas fa-video"></i></span>
+                    短视频广告推广
+                </h2>
+                <ul class="service-list">
+                    <li>主流流量，全面触达各短视频平台</li>
+                    <li>抖音短视频广告</li>
+                    <li>快手短视频推广</li>
+                    <li>视频内容创意制作</li>
+                    <li>短视频代运营</li>
+                </ul>
+            </div>
+            
+            <div class="service-card">
+                <h2 class="service-title">
+                    <span class="service-icon"><i class="fas fa-chart-line"></i></span>
+                    SEO优化服务
+                </h2>
+                <ul class="service-list">
+                    <li>网站关键词排名优化</li>
+                    <li>站内站外SEO优化</li>
+                    <li>内容营销策略制定</li>
+                    <li>搜索引擎收录提升</li>
+                    <li>长期稳定流量获取</li>
+                </ul>
+            </div>
+            
+            <div class="service-card">
+                <h2 class="service-title">
+                    <span class="service-icon"><i class="fas fa-laptop-code"></i></span>
+                    网站建设服务
+                </h2>
+                <ul class="service-list">
+                    <li>企业官网定制开发</li>
+                    <li>响应式网站设计</li>
+                    <li>电商网站建设</li>
+                    <li>网站维护与更新</li>
+                    <li>UI/UX用户体验优化</li>
+                </ul>
+            </div>
+            
+            <div class="service-card">
+                <h2 class="service-title">
+                    <span class="service-icon"><i class="fas fa-ad"></i></span>
+                    其他广告推广
+                </h2>
+                <ul class="service-list">
+                    <li>二类电商、新闻媒体、问答等</li>
+                    <li>朋友圈广告</li>
+                    <li>代运营服务</li>
+                    <li>高点用户获取</li>
+                    <li>全渠道整合营销</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="contact-section">
+            <h2 class="contact-title">联系我们</h2>
+            <div class="contact-options">
+                <div class="contact-option">
+                    <div class="contact-icon"><i class="fas fa-comments"></i></div>
+                    <h3>在线客服</h3>
+                    <p>24小时为您提供服务</p>
+                    <a href="https://affim.baidu.com/unique_37700867/chat?siteId=17562332&userId=37700867&siteToken=ca7b950d9eed436be73d370332c8981f&cp=&cr=sites.google.com&cw=google" class="contact-btn">点击联系人工客服</a>
+                </div>
+                
+                <div class="contact-option">
+                    <div class="contact-icon"><i class="fab fa-telegram"></i></div>
+                    <h3>Telegram客服</h3>
+                    <p>精准引流-不限行业</p>
+                    <a href="https://t.me/tuiguang88899" class="contact-btn">点击联系Telegram客服</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="promotion-section">
+            <h2 class="promotion-title">竞价推广开户-代运营</h2>
+            <div class="promotion-content">
+                <div class="promotion-item">
+                    <h3>一手渠道推广资源</h3>
+                    <p>全行业秒下户，提供框架户、端口户、白单户、行发户等</p>
+                </div>
+                <div class="promotion-item">
+                    <h3>优惠政策</h3>
+                    <p>优惠政策可达80%，一站式服务提供精细化代运营</p>
+                </div>
+            </div>
+            
+            <div class="advantages-grid">
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-rocket"></i></div>
+                    <h4>快速开户</h4>
+                    <p>全行业秒下户，极速开启推广</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-money-bill-wave"></i></div>
+                    <h4>高额返点</h4>
+                    <p>优惠政策可达80%，成本更低</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-user-tie"></i></div>
+                    <h4>专业运营</h4>
+                    <p>资深优化师一对一服务</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-chart-bar"></i></div>
+                    <h4>数据驱动</h4>
+                    <p>实时数据分析，优化投放效果</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-shield-alt"></i></div>
+                    <h4>账户安全</h4>
+                    <p>稳定框架户，规避风险</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-headset"></i></div>
+                    <h4>全天候服务</h4>
+                    <p>7×24小时客服支持</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-sync-alt"></i></div>
+                    <h4>持续优化</h4>
+                    <p>定期策略调整，效果不断提升</p>
+                </div>
+                <div class="advantage-item">
+                    <div class="advantage-icon"><i class="fas fa-tools"></i></div>
+                    <h4>技术支持</h4>
+                    <p>专业技术团队，解决各类问题</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="time-stamp">
+            预付费广告，不接担保，专业做推广，合作共赢
+        </div>
+        
+        <footer>
+            <p>© 2021 专业广告推广服务 | 专注搜索推广+信息流推广+短视频推广+SEO优化+网站建设</p>
+        </footer>
+    </div>
+    
+    <!-- 咨询弹窗 -->
+    <div class="consult-modal" id="consultModal">
+        <div class="modal-content">
+            <span class="modal-close" id="modalClose">&times;</span>
+            <h2 class="modal-title">立即咨询</h2>
+            <p class="modal-subtitle">我们的专业顾问将为您提供一对一服务</p>
+            
+            <div class="modal-buttons">
+                <a href="https://affim.baidu.com/unique_37700867/chat?siteId=17562332&userId=37700867&siteToken=ca7b950d9eed436be73d370332c8981f&cp=&cr=sites.google.com&cw=google" class="modal-btn modal-btn-primary">
+                    <i class="fas fa-comments"></i> 在线客服咨询
+                </a>
+                <a href="https://t.me/tuiguang88899" class="modal-btn modal-btn-secondary">
+                    <i class="fab fa-telegram"></i> Telegram咨询
+                </a>
+                <div class="qr-section" style="margin: 20px 0;">
+                    <div class="qr-code">
+						<img src="wechat-qr.png" alt="微信咨询二维码">
+                    </div>
+                    <div class="qr-text">微信扫码咨询</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- 浮动咨询按钮 -->
+    <div class="floating-consult" id="floatingConsult">
+        <i class="fas fa-comment-alt"></i>
+    </div>
+    
+    <script>
+        // 页面加载后3秒显示咨询弹窗
+        window.addEventListener('load', function() {
+            setTimeout(function() {
+                document.getElementById('consultModal').style.display = 'flex';
+            }, 3000);
+        });
+        
+        // 关闭弹窗
+        document.getElementById('modalClose').addEventListener('click', function() {
+            document.getElementById('consultModal').style.display = 'none';
+        });
+        
+        // 点击浮动咨询按钮显示弹窗
+        document.getElementById('floatingConsult').addEventListener('click', function() {
+            document.getElementById('consultModal').style.display = 'flex';
+        });
+        
+        // 点击弹窗外部关闭弹窗
+        window.addEventListener('click', function(event) {
+            if (event.target === document.getElementById('consultModal')) {
+                document.getElementById('consultModal').style.display = 'none';
+            }
+        });
+        
+        // 防止咨询链接被点击后弹窗不关闭
+        document.querySelectorAll('.modal-btn').forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                document.getElementById('consultModal').style.display = 'none';
+            });
+        });
+    </script>
+</body>
+</html>
